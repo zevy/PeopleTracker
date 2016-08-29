@@ -33,7 +33,7 @@
 
 		<div class="jumbotron">
 			<h1>Spring</h1>
-			<p class="lead">Spring helps development teams everywhere build
+			<p class="lead">Fall helps development teams everywhere build
 				simple, portable, fast and flexible JVM-based systems and
 				applications.</p>
 			<p>
